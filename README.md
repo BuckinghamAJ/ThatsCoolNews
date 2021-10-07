@@ -12,4 +12,4 @@ Adam Buckingham the host of That’s Cool News brings you the Science and Techno
 ## More Links
 Website: https://thatscoolnews.com/ \
 Review The Podcast: https://thatscoolnews.com/review \
-Email List: https://thatscoolnews.com/email \
+Email List: https://thatscoolnews.com/email 
