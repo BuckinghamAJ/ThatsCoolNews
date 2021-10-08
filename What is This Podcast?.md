@@ -1,7 +1,8 @@
 # What is This Podcast?
-        [Listen Here!](https://thatscoolnews.podbean.com/e/what-is-this-podcast-ep-0/) 
-        ## Description of The Podcast
-        <p style="text-align:left;">Wanted to take a few minutes of your time to explain what the That's Cool News Podcast is. I essentially want to introduce myself to everyone listening, my name is Adam Buckingham, and what this podcast is going to be in the near future, and what it will hopefully grow into. </p>
+[Listen Here!](https://thatscoolnews.podbean.com/e/what-is-this-podcast-ep-0/) 
+## Description of The Podcast
+        
+<p style="text-align:left;">Wanted to take a few minutes of your time to explain what the That's Cool News Podcast is. I essentially want to introduce myself to everyone listening, my name is Adam Buckingham, and what this podcast is going to be in the near future, and what it will hopefully grow into. </p>
 
 <p style="text-align:left;">Who Am I?</p>
 
