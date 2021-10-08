@@ -13,10 +13,10 @@ class MakeEpisodeFile():
     @staticmethod
     def createFileContents(episode):
         MDcontent = f"""#{episode.title}
-        ---
-        [Listen Here!]({episode.link}) \\
-        ## Description of The Podcast
-        {episode.description}"""
+---
+[Listen Here!]({episode.link}) \\
+## Description of The Podcast
+{episode.description}"""
         return MDcontent
 
 
